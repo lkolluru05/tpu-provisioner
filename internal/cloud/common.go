@@ -24,7 +24,6 @@ const (
 	LabelJobSetNamespace = keyPrefix + "tpu-provisioner-jobset-namespace"
 
 	LabelNodePoolHash = keyPrefix + "tpu-provisioner-nodepool-hash"
-	LabelTopology     = "topology"
 
 	LabelProvisionerNodepoolID        = "provisioner-nodepool-id"
 	LabelTPUProvisionerStaticNodepool = "tpu-provisioner-static-nodepool"
